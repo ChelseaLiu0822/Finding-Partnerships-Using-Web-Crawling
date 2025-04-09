@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Automated Discovery of Faith-Based K-12 Partnerships Using IRS Data and Targeted Web Crawling
 
 ## **Abstract**&#x20;
